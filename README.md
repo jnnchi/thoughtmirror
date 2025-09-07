@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Python-f06353?logo=python&logoColor=FFFFFF" alt="Python" />
   <img src="https://img.shields.io/badge/React-428af7.svg?logo=react&logoColor=ffffff" alt="React" />
   <img src="https://img.shields.io/github/repo-size/jnnchi/thoughtmirror?color=c8dc77" alt="Repo size" />
-  <img src="https://img.shields.io/github/license/jnnchi/thoughtmirror?color=fe8548" alt="License" />
+  <img src="https://img.shields.io/github/last-commit/jnnchi/thoughtmirror?color=fe8548" alt="GitHub last commit" />
 </p>
 
 
